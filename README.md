@@ -99,12 +99,12 @@ Os notebooks foram desenvolvidos para execução em ambientes Jupyter, especialm
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
+   git clone https://github.com/sugarfreecat/estatistica_descritiva.git
    ```
 
 2. Acesse o repositório:
    ```bash
-   cd SEU-REPOSITORIO
+   cd estatistica_descritiva
    ```
 
 3. Instale as dependências:
@@ -230,12 +230,12 @@ The notebooks were developed for Jupyter-compatible environments, particularly G
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+   git clone https://github.com/sugarfreecat/estatistica_descritiva.git
    ```
 
 2. Navigate to the repository:
    ```bash
-   cd YOUR-REPOSITORY
+   cd estatistica_descritiva
    ```
 
 3. Install the dependencies:
